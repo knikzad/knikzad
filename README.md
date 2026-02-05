@@ -1,26 +1,44 @@
-### 👋 Hi, I’m Khalifa, a passionate data analyst and software developer from Afghanistan. 
+### 👋 Hi, I’m Khalifa Nikzad – Software Engineer & Master’s Student in Computer Science  
 
 ## 🤷‍♂️ About Me
-- I'm currently searching for a full time job as a data analyst in European countries and North America. 
-- [](img/graduation.png) Bachelor degree in computer science (information & database management) from Herat University in Afghanistan.
-- [Google-certified data analyst](https://www.coursera.org/account/accomplishments/specialization/certificate/M3QW5HU3TTFZ)
-- Currently working as **Consortia Data Management Officer** at Norwegian Refugee Council International NGO, in Afghanistan.
-- [Download Resume](https://docs.google.com/document/d/19CpTZ9z3rtEoSfqGdcvrn1uSFColVCXgIQ9khw-2v9c/export?format=pdf)
+- I am currently pursuing a **Master’s in Computer Science** at the **University of Vienna**, focusing on **Software Engineering, Distributed Systems, and Cloud Computing**.  
+- Experienced in backend development and modern software engineering practices including **microservices, Docker, Kubernetes, and cloud deployments**.  
+- Previously worked in software development and data-centric roles; now fully transitioning back into software engineering.  
+- Seeking part-time or internship opportunities in **backend or full-stack development**.  
+- [Download Resume](https://docs.google.com/document/d/1hfgMts5K9o0BpLohoioglbFz0gbopTI_/export?format=pdf)  
 
-## 💻 Currently studying:
-- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) in [Coursera](https://www.coursera.org/)
-- [Improve Your English Communication Skills Specialization](https://www.coursera.org/specializations/improve-english) in [Coursera](https://www.coursera.org/)
+## 💻 Technical Skills
+- **Languages & Frameworks:** Python (FastAPI, Django), PHP (Laravel)  
+- **Cloud & DevOps:** Docker, Docker Compose, Kubernetes (fundamentals), GCP, CI/CD basics  
+- **Databases & Messaging:** MySQL, MongoDB, SQLite, Apache Kafka (fundamentals)  
+- **Frontend & Tools:** HTML, CSS, JavaScript, Git, GitHub, Linux, Postman  
 
-## 🛠 Skills and Tools
-- **Tools:** Python (NumPy, Pandas, and Matplotlib), R (ggplot2, tidyverse, lubridate, dplyr, and readr), PHP (Laravel, CodeIgniter), SQL, Excel (Pivot tables, charts, and Vlookup), Tableau, and Power BI.
-- **Skills:** Sample Size Determination, Questioning, Data Ethics, Data Collection, Data Cleansing, Metadata, Data Analysis, Data Visualization, Decision-Making, and Problem Solving.
+## 📚 Selected University Projects
+### Airport Security System – Collector Service (Microservices & Kubernetes)
+- Developed a **FastAPI-based Collector service** acting as an orchestration layer in a distributed airport security system.  
+- Integrated multiple backend services via **asynchronous HTTP communication**.  
+- Deployed on **GKE using Kubernetes** with probes, resource limits, ClusterIP service discovery, and autoscaling.  
 
-## 📚 Projects
-- View my  projects on my **portfolio** [Here](https://knikzad.github.io/). 
-- View my coding on **Github** [Here](https://github.com/knikzad?tab=repositories).
-- View my data visualization on **Tableau** [Here](https://public.tableau.com/app/profile/khalifa.nikzad)
+### Mobifix – Device Repair Management System
+- Built a **containerized full-stack application** to manage repair workflows, payments, and analytics.  
+- Implemented backend services using **Laravel (PHP)** with MariaDB and MongoDB.  
+- Developed a **data migration pipeline** from MariaDB to MongoDB for analytical queries.  
+- Containerized the system using **Docker and Docker Compose** for reproducible deployment.  
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/knikzad/)
-- [Email](mailto:khalifah.nikzad@gmail.com)
-- [Skype](https://join.skype.com/invite/oVuplSHLdOug)
+## 💼 Experience Highlights
+- **Norwegian Refugee Council** – Data Management Officer: Built structured data pipelines for large-scale projects.  
+- **Cordaid** – MIS Officer (PHP Developer): Developed and maintained web systems for case management and reporting.  
+- **Oxfam Novib** – Data Analyst: Built data validation tools and processed large datasets for 21,000+ beneficiaries.  
+- **ClikGlobal (Remote – USA)** – Software Developer: Designed and implemented backend services in Python/Django and PHP/Laravel; collaborated with distributed teams on feature design, testing, and deployment.  
+- **Alfa Plus** – Software Developer: Contributed to the design and implementation of a university management system; developed backend modules, database schemas, and frontend components; optimized SQL queries and ensured data consistency.  
+ 
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/knikzad/)  
+- [GitHub](https://github.com/knikzad)  
+- [Email](mailto:khalifah.nikzad@gmail.com)  
+
+## 🔗 Portfolio & Projects
+- **Portfolio:** [View Projects](https://knikzad.github.io/)  
+- **GitHub Repositories:** [View Code](https://github.com/knikzad?tab=repositories)  
+- **Tableau Visualizations:** [View Here](https://public.tableau.com/app/profile/khalifa.nikzad)  
