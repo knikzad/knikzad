@@ -4,7 +4,7 @@
 - I am currently pursuing a **Master’s in Computer Science** at the **University of Vienna**, focusing on **Software Engineering, Distributed Systems, and Cloud Computing**.  
 - Experienced in backend development and modern software engineering practices including **microservices, Docker, Kubernetes, and cloud deployments**.  
 - Previously worked in software development and data-centric roles; now fully transitioning back into software engineering.  
-- Seeking part-time or internship opportunities in **backend or full-stack development**.  
+- Seeking for opportunities in **backend or full-stack development**.  
 - [Download Resume](https://docs.google.com/document/d/1hfgMts5K9o0BpLohoioglbFz0gbopTI_/export?format=pdf)  
 
 ## 💻 Technical Skills
