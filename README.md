@@ -6,7 +6,7 @@ Backend Software Engineer with **8+ years of professional experience** and curre
 
 Currently seeking **Backend Software Engineer** and **Full-Stack Software Engineer** opportunities in **Austria** and across **Europe**.
 
-📄 **Download Resume:** https://knikzad.github.io/assets/resume/Khalifa_Nikzad_Resume.pdf
+📄 **Download Resume:** https://knikzad.github.io/assets/documents/Khalifa_Nikzad_Resume.pdf
 
 ---
 
