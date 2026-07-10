@@ -1,10 +1,10 @@
 # Hi, I'm Khalifa Nikzad 👋
 
-### Backend Software Engineer | M.Sc. Computer Science Student @ University of Vienna
+### Backend Software Engineer | Full-Stack Developer | M.Sc. Computer Science Student @ University of Vienna
 
-Backend Software Engineer with **8+ years of professional experience** and currently pursuing an **M.Sc. in Computer Science (thesis in progress)** at the **University of Vienna**. Passionate about building scalable backend systems, distributed applications, and cloud-native solutions using modern software engineering practices.
+Backend Software Engineer with **8+ years of professional experience** and currently completing an **M.Sc. in Computer Science (thesis in progress)** at the University of Vienna. Experienced in building scalable backend systems, REST APIs, and full-stack web applications using **Python (FastAPI, Django), React, MySQL, MongoDB, Docker, and modern software engineering practices**.
 
-Currently seeking **Backend Software Engineer** and **Full-Stack Software Engineer** opportunities in **Austria** and across **Europe**.
+I'm currently seeking **Backend Software Engineer** and **Full-Stack Software Engineer** opportunities in Austria and across Europe.
 
 📄 **Download Resume:** https://knikzad.github.io/assets/documents/Khalifa_Nikzad_Resume.pdf
 
