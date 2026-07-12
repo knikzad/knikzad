@@ -1,10 +1,14 @@
 # Hi, I'm Khalifa Nikzad 👋
 
-### Backend Software Engineer | Full-Stack Developer | M.Sc. Computer Science Student @ University of Vienna
+### Backend Software Engineer | Full-Stack Developer
 
-Backend Software Engineer with **7+ years of professional experience** and currently completing an **M.Sc. in Computer Science (thesis in progress)** at the University of Vienna. Experienced in building scalable backend systems, REST APIs, and full-stack web applications using **Python (FastAPI, Django), React, MySQL, MongoDB, Docker, and modern software engineering practices**.
+Backend Software Engineer with **7+ years of professional experience**
+developing scalable backend systems, REST APIs, and full-stack web applications
+using **Python (FastAPI, Django), React, MySQL, MongoDB, and Docker.**
+Passionate about designing clean architectures, distributed systems, and
+building reliable software.
 
-I'm currently seeking **Backend Software Engineer** and **Full-Stack Software Engineer** opportunities in Austria and across Europe.
+I'm currently seeking **Backend Software and Full-Stack Software Engineer** opportunities in Austria and across Europe.
 
 📄 **Download Resume:** https://knikzad.github.io/assets/documents/Khalifa_Nikzad_Resume.pdf
 
@@ -15,7 +19,6 @@ I'm currently seeking **Backend Software Engineer** and **Full-Stack Software En
 - 🎓 Completing my M.Sc. thesis at the University of Vienna
 - ⚙️ Building scalable backend systems with Python and FastAPI
 - ☁️ Deepening my knowledge of Distributed Systems and Cloud Computing
-- 🏗️ Expanding my software engineering portfolio
 - 🇩🇪 Learning German (A2 → B1)
 
 ---
@@ -120,7 +123,7 @@ I'm currently seeking **Backend Software Engineer** and **Full-Stack Software En
 
 **M.Sc. Computer Science** *(Thesis in Progress)*  
 University of Vienna  
-Oct 2024 – Present
+Oct 2024 – Eexpected 2027
 
 **B.Sc. Computer Science**  
 Herat University  
@@ -145,7 +148,6 @@ Herat University
 - 💼 LinkedIn: https://www.linkedin.com/in/knikzad/
 - 💻 GitHub: https://github.com/knikzad
 - 🌍 Portfolio: https://knikzad.github.io/
-- 📊 Tableau: https://public.tableau.com/app/profile/khalifa.nikzad
 - 📧 Email: khalifah.nikzad@gmail.com
 
 ---
